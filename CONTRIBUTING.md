@@ -4,7 +4,7 @@ Contributing to Mail
 Hi there, I welcome pull requests!  Here are some thoughts on how to get your
 pull request merged quickly:
 
-1. Check the Reference RFCs, they are in the References directory, so no excuses.
+1. hmmmmmmmmmm.
 2. Check for a ticket on GitHub, maybe someone else has the problem too
 3. Make a fork of my GitHub repository
 4. Run the specs. We only take pull requests with passing tests, and it's great
